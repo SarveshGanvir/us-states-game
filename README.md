@@ -34,7 +34,7 @@ Built using Turtle graphics and data from a CSV file.
 
 ---
 
-## 🔗 Live Demo (Optional)
+## 🔗 Live Demo 
 
 👉 [Try the project on Replit](https://replit.com/@SarveshGanvir1/us-states-game)  
 👉 [Source Code on GitHub](https://github.com/SarveshGanvir/us-states-game)
